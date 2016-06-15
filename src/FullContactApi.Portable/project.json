@@ -1,0 +1,10 @@
+{
+  "supports": {},
+  "dependencies": {
+    "Newtonsoft.Json": "8.0.3",
+    "PortableRest": "3.0.1"
+  },
+  "frameworks": {
+    ".NETPortable,Version=v4.6,Profile=Profile44": {}
+  }
+}

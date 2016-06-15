@@ -1,0 +1,14 @@
+site_name: FullContact.NET Docs
+site_description: Complete instructions on using the FullContact.com API for .NET.
+theme: readthedocs
+pages:
+- Home:
+    - 'Introduction': 'index.md'
+- Release Notes:
+    - 1.0.0-alpha1: 'release-notes/1-0-0-alpha1.md'
+- About:
+    - 'License': 'license.md'
+extra_css: [vs-highlight.css]
+markdown_extensions:
+    - toc:
+        baselevel: "1"
